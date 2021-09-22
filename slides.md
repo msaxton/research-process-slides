@@ -90,6 +90,12 @@ Go through your reading notes and tag/label individual notes according to the th
 [Sample research log](https://msaxton.notion.site/Sample-Research-Log-5d5743036c394ad184bab74eebf78acd)
 
 
+### Remember, I'm hear to help with this process.
+<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
+<br>
+micah.saxton@tufts.edu
+
+
 ### Bibliography
 * Brundage, Anthony. *Going to the Sources: A Guide to Historical Research and Writing*. Hoboken: John Wiley & Sons, Incorporated, 2012.
 * Booth, Wayne C. *The Craft of Research.* Fourth edition. Chicago: The University of Chicago Press, 2016.
