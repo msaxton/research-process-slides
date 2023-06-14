@@ -4,7 +4,6 @@
 ### Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
 <br>
-
 micah.saxton@tufts.edu
 
 
@@ -30,7 +29,7 @@ What makes a good topic for research?
 ### 2. Conduct preliminary research
 Preliminary research will move you from an interesting topic to a relevant research question by providing background and context for your topic.
 
-Reference sources such as encyclopedias, dictionaries, adn handbooks are excellent tools for this purpose.
+Reference sources such as encyclopedias, dictionaries, and handbooks are excellent tools for this purpose.
 
 Where do I find reference sources?
 
